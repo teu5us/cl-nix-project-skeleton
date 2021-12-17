@@ -1,5 +1,1 @@
-hunchentoot
-djula
-cl-mongo
-cl-pass
-linedit
+../ql.txt
